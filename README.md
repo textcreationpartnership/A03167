@@ -35,9 +35,16 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-A ballad against slander and detractionHeywood, John, 1497?-1580?1562Approx. 5 KB of XML-encoded tex
+
+1. ¶A Ballad againſt ſlander and detraction.
+
 #####Back#####
-A ballad against slander and detractionHeywood, John, 1497?-1580?1562Approx. 5 KB of XML-encoded tex
+Imprinted at
+Londō at the lōg Shop
+adioining vnto Saint
+Mildreds Churche
+in the Pultrie by
+Iohn Al
 **Types of content**
 
   * There are 127 **verse** lines!
